@@ -24,3 +24,4 @@
 1. navigate to `/hub` and run `npm i` and then `npm run dev` 
 2. do the same in `/blog`
 3. navigate to `/proxy` and run `node proxy.js`
+4. go to `localhost:5000` for see the initial page(hub)
