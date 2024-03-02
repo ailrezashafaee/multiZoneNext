@@ -25,3 +25,7 @@
 2. do the same in `/blog`
 3. navigate to `/proxy` and run `node proxy.js`
 4. go to `localhost:5000` for see the initial page(hub)
+
+### Overall View : 
+![alt text](https://github.com/ailrezashafaee/multiZoneNext/blob/main/proxyFlow.drawio.png "structure image")
+
